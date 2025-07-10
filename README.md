@@ -37,14 +37,25 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🎨 Adobe Creative Suite Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-ADB9CA?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
 </p>
 
 ---
 
 ### 🌐 Networking & Tools
 
-- 💻 Familiar with **Cisco Packet Tracer** for simulating real-world network topologies
-- 🧠 Currently exploring **subnetting**, **switching**, and **routing fundamentals**
+- 💻 Familiar with **Cisco Packet Tracer** for simulating real-world network topologies  
+- 🧠 Currently exploring **subnetting**, **switching**, and **routing fundamentals**  
 - 🛠 Basic troubleshooting and lab simulations for **CCNA prep**
 
 ---
@@ -62,12 +73,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prototypevice&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prototypevice&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prototypevice&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
