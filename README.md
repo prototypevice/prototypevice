@@ -1,9 +1,6 @@
-<!-- Banner Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sean+Patrick+Lopez;Software+Engineering+Student+%F0%9F%92%BB;Passionate+about+Code+and+Networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=700&lines=Sean+Patrick+Lopez;Software+Engineering+Student+%40+FEU+Institute+of+Technology" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">2nd Year Computer Science - Software Engineering Student @ FEU Institute of Technology</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prototypevice&label=Profile%20views&color=blueviolet&style=flat" alt="prototypevice" />
@@ -27,7 +24,7 @@
 - 🎓 I'm currently a **2nd year Software Engineering** student at **FEU Institute of Technology**
 - 💡 I enjoy building systems that solve real problems and creating smooth user experiences
 - 🌐 I also love **networking**, especially working on **Packet Tracer labs** and **CCNA-based configurations**
-- 📚 Always learning something new — right now I'm diving deeper into **Java**, **Python**, and systems thinking
+- 📚 Always learning something new! Right now I'm diving deeper into **Java**, **Python**, and systems thinking
 
 ---
 
