@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sean Patrick Lopez</h1>
-<h3 align="center">A 2nd Year Computer Science - Software Engineering Student at FEU Institute of Technology</h3>
+<!-- Banner Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sean+Patrick+Lopez;Software+Engineering+Student+%F0%9F%92%BB;Passionate+about+Code+and+Networking" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">2nd Year Computer Science - Software Engineering Student @ FEU Institute of Technology</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prototypevice&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prototypevice&label=Profile%20views&color=blueviolet&style=flat" alt="prototypevice" />
 </p>
 
 ---
@@ -10,18 +14,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/patrickskrrr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/seanpatskrrr/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sean-patrick-lopez-19b996258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@skieslongbao?_t=ZS-8xuMeRGenzN&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" />
-  </a>
+  <a href="https://www.facebook.com/patrickskrrr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/seanpatskrrr/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sean-patrick-lopez-19b996258/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@skieslongbao?_t=ZS-8xuMeRGenzN&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 </p>
 
 ---
@@ -29,52 +25,58 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently a **2nd year Software Engineering** student at **FEU Institute of Technology**
-- 💡 I'm passionate about solving problems through code and creating user-centered systems
-- 🌐 I’m also exploring **Networking** through Cisco Packet Tracer and **CCNA Fundamentals**
-- 📚 I’m currently learning advanced **Java**, **Python** scripting, and system architecture
+- 💡 I enjoy building systems that solve real problems and creating smooth user experiences
+- 🌐 I also love **networking**, especially working on **Packet Tracer labs** and **CCNA-based configurations**
+- 📚 Always learning something new — right now I'm diving deeper into **Java**, **Python**, and systems thinking
 
 ---
 
 ### 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-### 📡 Networking Skills
+### 🌐 Networking & Tools
 
-- 🌐 Familiar with **Cisco Packet Tracer** and **CCNA-based routing/switching configurations**
-- 🔧 Hands-on experience in basic **network setup, simulation**, and **troubleshooting**
+- 💻 Familiar with **Cisco Packet Tracer** for simulating real-world network topologies
+- 🧠 Currently exploring **subnetting**, **switching**, and **routing fundamentals**
+- 🛠 Basic troubleshooting and lab simulations for **CCNA prep**
 
 ---
 
 ### 🌟 Featured Projects
 
 📌 [**MetaTrack**](https://github.com/prototypevice/MetaTrack)  
-*A modern calorie tracking system built with PHP, HTML, CSS, and JavaScript.*
+*A modern calorie tracking system with PHP, HTML, CSS, and JavaScript.*
 
 📌 [**Restaurant System**](https://github.com/prototypevice/Restaurant-System)  
-*A C++ console-based project that manages restaurant orders, billing, and reports.*
+*A restaurant ordering and billing system built in C++.*
 
 📌 [**JavaSwing Library System**](https://github.com/prototypevice/JavaSwing-Library-System)  
-*A GUI-based library management system using Java Swing for book rentals and returns.*
+*A GUI-based library manager using Java Swing and OOP.*
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prototypevice&show_icons=true&theme=tokyonight" alt="sean's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prototypevice&theme=tokyonight" alt="sean's streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prototypevice&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prototypevice&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### ✨ Slogan
 
-> *"Code with intention. Build with impact. Learn without limits."*
+<p align="center">
+  <em>"Code with intention. Build with impact. Learn without limits."</em>
+</p>
