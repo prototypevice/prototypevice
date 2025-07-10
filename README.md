@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prototypevice&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prototypevice&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prototypevice&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&custom_title=Total+Commits+Per+Day&theme=tokyonight" alt="Commits per day" />
 </p>
 
 ---
